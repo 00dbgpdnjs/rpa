@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=exgO1LFl9x8&t=18440s
+파이썬 코딩 무료 강의 (활용편4) - 업무자동화(RPA), 이제는 일하는 척(?)만 하세요
+
+엑셀은 openpyxl로 자동화
+웹은 셀레니움으로 자동화
+데스크탑[윈도우 프로그램]은 pyautogui로 (이미지 기반으로) 자동화

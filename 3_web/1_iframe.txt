@@ -1,0 +1,19 @@
+파이썬 코딩 무료 강의 (활용편4) - 업무자동화(RPA), 이제는 일하는 척(?)만 하세요
+5:55:00
+
+<html>
+    <body>
+        <iframe id="1">
+            <html>
+                <body>
+                    <div...>
+                </body>
+            </html>
+        </iframe>
+
+        <iframe id="2">
+            <html>
+
+body -> iframe -> html 이런식으로 접근이 당연히 안되기 때문에
+iframe 위에서만 찾거나, iframe부터 그 안에서만 찾아야함
+첫번째 아이프레임에 접근했다가 작업하고 빠져나가고, 다른 아이프레임으로 접근
